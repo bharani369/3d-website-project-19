@@ -1,4 +1,4 @@
-# Continuing Vercel project
+# Continuing Vercel project coming soon !
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
